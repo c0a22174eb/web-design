@@ -11,7 +11,7 @@
     <header>
         <nav>
             <div class="nav-wrapper">
-                <a href="../index.html" class="brand-logo black-text nav-font">Lélian Luxe</a>
+                <a class="brand-logo black-text nav-font">Lélian Luxe</a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li><a href="./cart/cart.html" class="waves-effect waves-light btn">商品カート</a></li>
                     <li><a href="./login/login.html" class="waves-effect waves-light btn">ログイン</a></li>
